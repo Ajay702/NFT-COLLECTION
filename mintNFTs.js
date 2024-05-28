@@ -29,6 +29,7 @@ function getTotalSupply() { // prints total number of NFTs minted
 
 mintNFT('Everydays: The First 5000 Days', 'Beeple', '20 May 2020', 'Adam Neuman', 'Leonardo Di Caprio'); //passing Actual Data of NFT in Blueprint
 mintNFT('The Merge', 'pak', '19 March 2021', 'Layla Sen', 'Nora Simmons');
+mintNFT('Bored Ape ', 'Yuga Labs', 'April 23 2021', 'OpenSea', 'Tom Cruise');
 
 listNFTs(); // Printing Data of NFTs
 
